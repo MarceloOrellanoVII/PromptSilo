@@ -1,4 +1,5 @@
 # PromptSilo
+<img width="2534" height="1268" alt="image" src="https://github.com/user-attachments/assets/76c0afda-174e-4dbe-967a-07bb86f63e64" />
 
 > A lightweight, local-first web application to organize, store, combine, and export AI prompts.
 
