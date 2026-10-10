@@ -25,10 +25,7 @@ PromptSilo eliminates the hassle of keeping prompt snippets, quality tags, camer
    ```bash
    git clone [https://github.com/MarceloOrellanoVII/PromptSilo.git](https://github.com/MarceloOrellanoVII/PromptSilo.git)
    ```
-2. Open `promptsilo.html` directly in any modern web browser, or serve it locally:
-   ```bash
-   npx serve .
-   ```
+2. Open `promptsilo.html` directly in any modern web browser.
 
 ---
 
